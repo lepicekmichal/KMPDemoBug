@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="KMP_Demo.galleryNavigation.commonMain" target="1.8" />
+      <module name="KMP_Demo.galleryNavigation.commonTest" target="1.8" />
+      <module name="KMP_Demo.galleryNavigation.jvmMain" target="1.8" />
+      <module name="KMP_Demo.galleryNavigation.jvmTest" target="1.8" />
+      <module name="KMP_Demo.navigation.commonMain" target="1.8" />
+      <module name="KMP_Demo.navigation.commonTest" target="1.8" />
+      <module name="KMP_Demo.navigation.jvmMain" target="1.8" />
+      <module name="KMP_Demo.navigation.jvmTest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
